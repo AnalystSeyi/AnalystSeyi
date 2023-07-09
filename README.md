@@ -13,9 +13,7 @@ I'm an insightful and result driven data analyst, creative in finding solutions 
 
 💬 Ask me about Data Analytics
 
-📫 How to reach me : Linkedin: @rajikudusadewale, medium: @rajikudusadewale, 
-
-email: (hello@akraji.com)
+📫 How to reach me : 📧 AnalystSeyi@gmail.com , [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
 
 <!---
 AnalystSeyi/AnalystSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
