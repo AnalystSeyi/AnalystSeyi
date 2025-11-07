@@ -1,29 +1,78 @@
-## Hi, I'm AnalystSeyi 👋
-I'm a Data Analyst/BI Expert
+# 👋 Hi, I'm Oluwaseyi Fatuase  
+### Data Analyst | Power BI Developer | Salesforce Administrator  
 
-👀 I'm interested in Data Analytics and Business Intelligence.
+I transform data into insights that drive better business decisions.  
+With a strong foundation in **Physics** and a **Master’s Degree in International Business with Data Analytics**, I bridge the gap between analytical precision and business strategy — delivering visual stories that inform, influence, and inspire.
 
-💞️ I’m looking to collaborate on everything data analysis projects
+---
 
-***
-#### 🚀About Me
-I'm an insightful and result driven data analyst, creative in finding solutions to problems and determining modifications for optimal use of organizational data. Committed to the culture of striving to achieve the company's vision by providing insightful reports using advanced analytical, research, and reporting skills.
-***
+## 💡 What I Do
 
-#### 🛠 Skills
-SQL (T-SQL), Advance Excel, Power BI, HTML 5 and CSS
-***
-🎥 When I'm not coding, I am playing Fifa or spending time with friends and family
+- 📊 **Develop interactive Power BI dashboards** that uncover patterns, track KPIs, and support decision-making.  
+- 🧮 **Analyze and validate data** using SQL, DAX, and Advanced Excel for accurate, reliable insights.  
+- ⚙️ **Enhance business performance** by optimizing processes and automating data workflows.  
+- ☁️ **Leverage Salesforce** to connect analytics with customer relationship management and operations.  
 
-💬 Ask me about Data Analytics
-<br><br><br>
-📫 **How to reach me :** <br> 
-  📧   Email         |  linkedin
-:------------------:  | :------------------:
-AnalystSeyi@gmail.com  | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-fatuase-16009b161/)
+---
 
-<!---
+## 🎓 Education Background
+- 🎓 **MSc — International Business with Data Analytics**  
+- 🎓 **BSc — Physics**  
 
-AnalystSeyi/AnalystSeyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This blend of analytical and business education helps me interpret data not just technically — but strategically.
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 [Referral to Recovery — Healthcare Performance Dashboard](https://github.com/AnalystSeyi/Referral-to-Recovery)
+**Tools:** Power BI, DAX, Data Quality Analysis  
+- Analyzed 11,500 patient records to evaluate waiting-time and recovery KPIs.  
+- Designed interactive dashboards to support operational and executive decision-making.  
+- Identified over 30% missing treatment data and proposed corrective data quality measures.  
+📈 *Result:* Improved visibility into service efficiency and compliance with national targets.  
+
+---
+
+### 💼 [CartConnect LLC — Profitability Analysis (2011–2014)](https://github.com/AnalystSeyi/CartConnect-Profitability)
+**Tools:** Power BI, DAX, Financial Analytics  
+- Investigated revenue, cost, and discount impact on profit margins across multiple regions.  
+- Found that discounts over 30% reduced profit potential by nearly 60%.  
+- Delivered actionable recommendations for regional pricing and margin optimization.  
+📈 *Result:* Empowered management to make data-driven pricing and discounting decisions.  
+
+---
+
+### 🧾 [Amazing Superstore — Power BI QA Testing with SQL](https://github.com/AnalystSeyi/Amazing-Superstore-SQL-QA)
+**Tools:** MySQL, Power BI, SQL Data Validation  
+- Conducted end-to-end QA on Power BI metrics using SQL queries.  
+- Validated KPIs such as sales, profit, and year-on-year growth for accuracy.  
+- Produced a QA test document with screenshots and queries to ensure data integrity.  
+📈 *Result:* Delivered a verified, reliable Power BI dashboard trusted for business reporting.  
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Data Visualization** | Power BI (DAX, Power Query), Tableau (Basic) |
+| **Data Analysis** | SQL (T-SQL, MySQL), Advanced Excel (Power Query, Pivot, VBA) |
+| **Business Tools** | Salesforce (Certified Admin), MS Office Suite |
+| **Programming & Web** | HTML 5, CSS 3, Python (Basic Analytics) |
+| **Soft Skills** | Data Storytelling, Stakeholder Reporting, Business Process Optimization |
+
+---
+
+## 🏅 Certifications
+
+- 🎓 **Salesforce Administrator Certification**  
+- 📜 **Microsoft Power BI Desktop for Business Intelligence**  
+- 📜 **SQL for Data Analytics and Business Intelligence**  
+- 📊 **Advanced Excel for Data Analytics and Reporting**  
+
+---
+
+## 🧭 About Me
+
+I’m an insightful, result-driven Data Analyst with a passion
