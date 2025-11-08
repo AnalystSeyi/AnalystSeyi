@@ -25,7 +25,7 @@ This blend of analytical and business education helps me interpret data not just
 
 ## 🚀 Featured Projects
 
-### 🩺 [Referral to Recovery — Healthcare Performance Dashboard](https://github.com/AnalystSeyi/Referral-to-Recovery)
+### 🩺 [Referral to Recovery — Healthcare Performance Dashboard](https://github.com/AnalystSeyi/Powerbi-Referral-To-Recovery-Analysis)
 **Tools:** Power BI, DAX, Data Quality Analysis  
 - Analyzed 11,500 patient records to evaluate waiting-time and recovery KPIs.  
 - Designed interactive dashboards to support operational and executive decision-making.  
@@ -34,7 +34,7 @@ This blend of analytical and business education helps me interpret data not just
 
 ---
 
-### 💼 [CartConnect LLC — Profitability Analysis (2011–2014)](https://github.com/AnalystSeyi/CartConnect-Profitability)
+### 💼 [CartConnect LLC — Profitability Analysis (2011–2014)](https://github.com/AnalystSeyi/CartConnectLLC-Profitability-Analysis-PowerBI)
 **Tools:** Power BI, DAX, Financial Analytics  
 - Investigated revenue, cost, and discount impact on profit margins across multiple regions.  
 - Found that discounts over 30% reduced profit potential by nearly 60%.  
@@ -43,7 +43,7 @@ This blend of analytical and business education helps me interpret data not just
 
 ---
 
-### 🧾 [Amazing Superstore — Power BI QA Testing with SQL](https://github.com/AnalystSeyi/Amazing-Superstore-SQL-QA)
+### 🧾 [Amazing Superstore — Power BI QA Testing with SQL](https://github.com/AnalystSeyi/SQL-QA-Test-for-Amazing-Superstore)
 **Tools:** MySQL, Power BI, SQL Data Validation  
 - Conducted end-to-end QA on Power BI metrics using SQL queries.  
 - Validated KPIs such as sales, profit, and year-on-year growth for accuracy.  
